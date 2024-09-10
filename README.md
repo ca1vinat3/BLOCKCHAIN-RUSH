@@ -5,8 +5,10 @@ like transaction validation and network congestion, offering a fun and accessibl
 
 
 Calvin Nathan Lichungu (Game Developer/Designer)
+
+
 Peter Maina Kariuki (Graphic artist)
 
 
-
+link to game : https://sparse-eve-scrawny.on-fleek.app/
 
