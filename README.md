@@ -4,8 +4,8 @@ alignment, the game speed increases, making it progressively challenging. The ga
 like transaction validation and network congestion, offering a fun and accessible way to learn about blockchain concepts through play.
 
 
-Calvin Nathan Lichungu
-Peter Maina Kariuki 
+Calvin Nathan Lichungu (Game Developer/Designer)
+Peter Maina Kariuki (Graphic artist)
 
 
 
