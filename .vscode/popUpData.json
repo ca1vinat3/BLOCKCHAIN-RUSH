@@ -1,0 +1,48 @@
+{
+    "c2array": true,
+    "size": [
+        1,
+        12,
+        1
+    ],
+    "data": [
+        [
+            [
+                "\"Blocks are like containers that store transaction data. When you match blocks, you’re adding new transactions to the blockchain!\""
+            ],
+            [
+                "\"Your blocks form a chain, just like the blockchain, where each block is linked to the previous one, creating a secure, unbreakable record!\""
+            ],
+            [
+                "\"The faster the blocks move, the more congested the network becomes. High activity means it’s harder and more costly to process transactions!\""
+            ],
+            [
+                "\"Blockchains rely on consensus, where the network agrees on which transactions are valid. In your game, aligning blocks correctly ensures your chain keeps growing!\""
+            ],
+            [
+                "\"On real blockchains, transactions cost gas fees. In your game, faster speeds are like higher fees—things get tougher as demand rises!\""
+            ],
+            [
+                "\"Smart contracts are self-executing agreements on the blockchain. They make things happen automatically, like wildcard blocks that can align with anything!\""
+            ],
+            [
+                "\"Sometimes, blockchains can split into different paths, called forks. Keep aligning blocks correctly to avoid splits and keep your chain strong!\""
+            ],
+            [
+                "\"Nodes are computers that keep the blockchain running by validating transactions. The more aligned blocks you have, the stronger your blockchain’s network becomes!\""
+            ],
+            [
+                "\"If over half the network controls the chain, it could rewrite transactions. Keep aligning blocks to keep your chain secure!\""
+            ],
+            [
+                "\"Proof of Work requires solving puzzles (like aligning blocks) to validate transactions. Proof of Stake would slow things down, making block placement strategic!\""
+            ],
+            [
+                "\"Blockchains can struggle to handle lots of transactions at once. Keep building efficiently to avoid a traffic jam in your chain!\""
+            ],
+            [
+                "\"dApps are applications built on blockchain technology, using smart contracts to run without central control. Special blocks in your game simulate how dApps can add unique functions to the chain!\""
+            ]
+        ]
+    ]
+}
